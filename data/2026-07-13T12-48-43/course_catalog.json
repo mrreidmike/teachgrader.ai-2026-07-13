@@ -1,0 +1,902 @@
+[
+  {
+    "id": "e5097f7b-1668-436b-93ff-b0108cc16ce1",
+    "code": "MATH100",
+    "title": "Fundamentals of Mathematics",
+    "credits": 3,
+    "description": "Number theory, algebra, graphs, statistics.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH095 or pass in CXC/GCE Mathematics",
+    "user_id": null
+  },
+  {
+    "id": "9d9a99a7-277b-440b-b32f-b7ee6209a536",
+    "code": "MATH121",
+    "title": "College Algebra",
+    "credits": 3,
+    "description": "Algebra operations, systems of equations, matrices, functions.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH095 or pass in CXC/GCE Mathematics",
+    "user_id": null
+  },
+  {
+    "id": "6f366048-11cc-4309-90e3-9aed15cd1125",
+    "code": "MATH166",
+    "title": "Pre-Calculus II",
+    "credits": 4,
+    "description": "Functions, trigonometry, logarithms, intro to calculus.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH121",
+    "user_id": null
+  },
+  {
+    "id": "9f047faa-5db3-4f4f-b221-9d1bb0325b37",
+    "code": "MATH271-171",
+    "title": "Calculus I",
+    "credits": 4,
+    "description": "Limits, differentiation, integration.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH166 or equivalent",
+    "user_id": null
+  },
+  {
+    "id": "1b8db7f8-c220-4c56-b854-7fe0c1feca2d",
+    "code": "MATH261",
+    "title": "Finite Mathematics",
+    "credits": 3,
+    "description": "Logic, probability, linear programming.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH165",
+    "user_id": null
+  },
+  {
+    "id": "bd93522e-d064-4db5-9a01-cedd6daa56c3",
+    "code": "MATH288",
+    "title": "Fundamentals of Linear Algebra",
+    "credits": 3,
+    "description": "Linear systems, vector spaces, eigenvalues.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH165",
+    "user_id": null
+  },
+  {
+    "id": "d405d20f-42de-43d8-b2b6-555be55f7320",
+    "code": "MATH381",
+    "title": "Calculus III",
+    "credits": 3,
+    "description": "Improper integrals, 3D vectors, sequences and series.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "d3dd3ec9-baea-4d64-8d62-60d19319655a",
+    "code": "MATH382",
+    "title": "Calculus IV",
+    "credits": 3,
+    "description": "Multivariable calculus, multiple integrals.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH381",
+    "user_id": null
+  },
+  {
+    "id": "4603b2a6-bb77-400e-9c3d-eb42707217fa",
+    "code": "MATH210",
+    "title": "College Geometry",
+    "credits": 3,
+    "description": "Euclidean and non-Euclidean geometry.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH166",
+    "user_id": null
+  },
+  {
+    "id": "3dc91cf9-e9ea-4254-9e22-d277cd12af62",
+    "code": "MATH205",
+    "title": "Probability and Statistics",
+    "credits": 3,
+    "description": "Probability, inference, regression.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH166",
+    "user_id": null
+  },
+  {
+    "id": "4ce6bd0a-4f04-4e3b-808a-930242c4e81c",
+    "code": "MATH315",
+    "title": "Financial Mathematics",
+    "credits": 3,
+    "description": "Present value and actuarial applications.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH381",
+    "user_id": null
+  },
+  {
+    "id": "337c1836-323b-4b99-9db1-9cb038886cb1",
+    "code": "MATH341",
+    "title": "Ordinary Differential Equations",
+    "credits": 3,
+    "description": "First and higher-order ODEs.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "223bdd65-d35f-4189-886a-549b0820e8c8",
+    "code": "MATH371",
+    "title": "Modern Algebra",
+    "credits": 3,
+    "description": "Groups, rings, fields.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "a1fcf4df-e83d-45a2-8d23-4ffcba6f1fd3",
+    "code": "MATH385",
+    "title": "Partial Differential Equations",
+    "credits": 3,
+    "description": "Solution methods for PDEs.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH341",
+    "user_id": null
+  },
+  {
+    "id": "8835eb61-cd3c-4435-a788-f79886e7787b",
+    "code": "MATH455",
+    "title": "Advanced Partial Differential Equations",
+    "credits": 3,
+    "description": "Advanced nonlinear PDE methods.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH205; MATH371; MATH385; MATH382",
+    "user_id": null
+  },
+  {
+    "id": "d349ffdf-f99f-4bdd-a06e-a75ebe3f6159",
+    "code": "MATH452",
+    "title": "Numerical Methods",
+    "credits": 3,
+    "description": "Numerical algorithm development.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "c80fae0b-c519-4f38-a55d-14cd0a82dc08",
+    "code": "MATH325",
+    "title": "Mathematical Probability",
+    "credits": 3,
+    "description": "Probability theory for risk assessment.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH205",
+    "user_id": null
+  },
+  {
+    "id": "922c2820-9cc4-4f87-af3e-af879f4a3a1e",
+    "code": "MATH326",
+    "title": "Mathematical Statistics",
+    "credits": 3,
+    "description": "Estimation and hypothesis testing.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH325; MATH288",
+    "user_id": null
+  },
+  {
+    "id": "41f29acf-4414-49c0-b7ef-69060f302a0e",
+    "code": "MATH342",
+    "title": "Real Analysis",
+    "credits": 3,
+    "description": "Convergence and rigorous calculus.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "8deb35d5-14fa-4eca-9d0b-ac5bfdae1964",
+    "code": "MATH343",
+    "title": "Complex Analysis",
+    "credits": 3,
+    "description": "Complex functions and residues.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "ff7ba578-b9a7-4052-99b6-a5e19d950cdf",
+    "code": "MATH453",
+    "title": "Advanced Statistical Methods",
+    "credits": 3,
+    "description": "Multivariate regression and statistical computing.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH205; MATH371; MATH385; MATH382",
+    "user_id": null
+  },
+  {
+    "id": "8de12335-4abc-4d59-8f37-046208e11fe3",
+    "code": "MATH454",
+    "title": "Fundamentals of Time Series Analysis",
+    "credits": 3,
+    "description": "ARIMA models and forecasting.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH205; MATH371; MATH385; MATH382",
+    "user_id": null
+  },
+  {
+    "id": "60a6fc9d-7c9b-482b-830c-268aade13709",
+    "code": "MATH095",
+    "title": "Introductory Mathematics",
+    "credits": 3,
+    "description": "Basic arithmetic and algebra operations; does not count toward degree credit.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "a32e5ccd-038f-44a3-9b28-dcb143f564e5",
+    "code": "MATH499",
+    "title": "Project in Mathematics",
+    "credits": 3,
+    "description": "Supervised mathematics project.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH381",
+    "user_id": null
+  },
+  {
+    "id": "f9d98905-70e0-4737-ba29-17b8d4945dc4",
+    "code": "MATH175",
+    "title": "History of Mathematics",
+    "credits": 3,
+    "description": "Historical development of mathematics.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH210",
+    "user_id": null
+  },
+  {
+    "id": "b51835b5-dda6-4bde-87d7-32bdcbecfd4a",
+    "code": "MATH476",
+    "title": "Long-Term Actuarial Mathematics II",
+    "credits": 3,
+    "description": "Continuation of actuarial mathematics.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH475",
+    "user_id": null
+  },
+  {
+    "id": "431764dd-199a-4c81-aeaf-0497668937e4",
+    "code": "MATH475",
+    "title": "Long-Term Actuarial Mathematics I",
+    "credits": 3,
+    "description": "Actuarial science modeling.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH381",
+    "user_id": null
+  },
+  {
+    "id": "8c248613-3d7e-406a-919b-f88be356d260",
+    "code": "MATH459",
+    "title": "Fundamentals of Group and Number Theory",
+    "credits": 3,
+    "description": "Advanced algebra and number theory.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH205; MATH371; MATH385; MATH382",
+    "user_id": null
+  },
+  {
+    "id": "6c43b9ac-6d90-4293-9a49-d1e76fa40a7c",
+    "code": "MATH458",
+    "title": "Stochastic Calculus",
+    "credits": 3,
+    "description": "Stochastic integrals and modeling.",
+    "created_at": "2026-02-13T20:18:57.776735+00:00",
+    "prerequisites": "MATH205; MATH371; MATH385; MATH382",
+    "user_id": null
+  },
+  {
+    "id": "1c41811a-9593-4054-b518-7efb5514fbdf",
+    "code": "ENGR314",
+    "title": "Control Systems and Mechatronics I",
+    "credits": 4,
+    "description": "Feedback control systems.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR351",
+    "user_id": null
+  },
+  {
+    "id": "c67930c2-7b12-467a-9f82-e2c64394a429",
+    "code": "ENGR110",
+    "title": "Engineering Orientation and Ethics",
+    "credits": 3,
+    "description": "Introduction to engineering profession.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "c06bbc72-3811-474d-becb-69d6509cba55",
+    "code": "ENGR111",
+    "title": "Introduction to Engineering Design with CAD",
+    "credits": 3,
+    "description": "3D modeling and technical sketching.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "4691ce62-a18e-4acd-b5a8-4b7e3c865b35",
+    "code": "ENGR112",
+    "title": "Electro-Mechanical Workshop",
+    "credits": 2,
+    "description": "Workshop safety and practical project.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "e1b29b3b-2cdb-47b5-a8c7-fd909d929cd8",
+    "code": "ENGR325",
+    "title": "Engineering Mechanics I: Statics",
+    "credits": 3,
+    "description": "Equilibrium and structural analysis.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "48d23ec7-f7f4-4123-bc3f-1302f0d4e153",
+    "code": "ENGR326",
+    "title": "Engineering Mechanics II: Dynamics",
+    "credits": 3,
+    "description": "Kinematics and kinetics.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR325",
+    "user_id": null
+  },
+  {
+    "id": "b64dbe0d-a5e6-41a3-9657-85c320089a13",
+    "code": "ENGR235",
+    "title": "Engineering Tools and Technology",
+    "credits": 3,
+    "description": "Embedded systems and 3D printing.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR110; ENGR111; CPTR113",
+    "user_id": null
+  },
+  {
+    "id": "eb93a525-db5e-4c4e-962c-b3916f14adbb",
+    "code": "ENGR210",
+    "title": "Applied Physics with Calculus I",
+    "credits": 3,
+    "description": "Mechanics and thermodynamics.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "PHYS151",
+    "user_id": null
+  },
+  {
+    "id": "6048ee99-f39e-4802-ac66-be9401e7aeb0",
+    "code": "ENGR212",
+    "title": "Applied Physics with Calculus II",
+    "credits": 3,
+    "description": "Electricity and magnetism.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR210",
+    "user_id": null
+  },
+  {
+    "id": "c0734f16-7ced-44e8-ab35-c9347f6ea349",
+    "code": "ENGR213",
+    "title": "Software Techniques and Computational Methods",
+    "credits": 4,
+    "description": "Simulation and numerical methods.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "MATH271-171; CPTR151",
+    "user_id": null
+  },
+  {
+    "id": "3fe5231f-0c70-48a0-a727-aa19f3d4bb8b",
+    "code": "ENGR251",
+    "title": "Electrical Circuit Theory I",
+    "credits": 3,
+    "description": "Circuit laws and AC analysis.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR110; PHYS152",
+    "user_id": null
+  },
+  {
+    "id": "9fb843ed-a464-4612-ab0e-7727473742f7",
+    "code": "ENGR351",
+    "title": "Electrical Circuit Theory II",
+    "credits": 3,
+    "description": "Transform methods in circuits.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR251",
+    "user_id": null
+  },
+  {
+    "id": "c7c98b17-39ba-483d-b476-291ef5b193bf",
+    "code": "ENGR301",
+    "title": "Electronics I",
+    "credits": 4,
+    "description": "Semiconductor devices.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR251; MATH271-171",
+    "user_id": null
+  },
+  {
+    "id": "1d57a895-8979-43e7-956e-8557048272c7",
+    "code": "ENGR302",
+    "title": "Electronics II",
+    "credits": 4,
+    "description": "Analog systems.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR301",
+    "user_id": null
+  },
+  {
+    "id": "2beac1bb-aa72-445e-9b21-edc97e1a3142",
+    "code": "ENGR303",
+    "title": "Electrical Power Systems I",
+    "credits": 3,
+    "description": "Power system components.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR351; MATH341",
+    "user_id": null
+  },
+  {
+    "id": "f5d01d45-ff47-4830-9c09-4b54bc788d34",
+    "code": "ENGR304",
+    "title": "Electrical Power Systems II",
+    "credits": 4,
+    "description": "Advanced power systems.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR303",
+    "user_id": null
+  },
+  {
+    "id": "74d14ce5-9dc0-42d3-81c4-605a67fd06bf",
+    "code": "ENGR405",
+    "title": "Communication Systems I",
+    "credits": 3,
+    "description": "Analog communications.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR251; MATH341",
+    "user_id": null
+  },
+  {
+    "id": "35b0e118-fa76-41d0-8144-efbda1882f56",
+    "code": "ENGR307",
+    "title": "Digital Circuits and Microprocessors I",
+    "credits": 3,
+    "description": "Digital logic and microprocessors.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR251; MATH271-171",
+    "user_id": null
+  },
+  {
+    "id": "2c1fee2a-ca1e-4c5d-a297-7485e74a7c4a",
+    "code": "ENGR310",
+    "title": "Engineering Electromagnetics",
+    "credits": 3,
+    "description": "Electromagnetic field theory.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "MATH341; ENGR351",
+    "user_id": null
+  },
+  {
+    "id": "be6ffbc1-a6be-4a4c-a3d4-833cd8e0963d",
+    "code": "ENGR312",
+    "title": "Electrical Drives and Power Electronics I",
+    "credits": 4,
+    "description": "Energy conversion and drives.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR301; ENGR303; ENGR307",
+    "user_id": null
+  },
+  {
+    "id": "306aaf42-0ae3-4a3e-a7cb-44eff5bb9635",
+    "code": "ENGR315",
+    "title": "Intro to Renewable Energy Systems",
+    "credits": 3,
+    "description": "Overview of renewable energy systems.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "23697a3f-005f-4d5b-bd2d-40ebe4ac639d",
+    "code": "ENGR425",
+    "title": "Signals and Systems",
+    "credits": 3,
+    "description": "Signal analysis.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR351; MATH341",
+    "user_id": null
+  },
+  {
+    "id": "5ae1c1b8-1eee-4771-a780-d4a5f68bc2e4",
+    "code": "ENGR424",
+    "title": "Digital Signal Processing",
+    "credits": 3,
+    "description": "Digital filters and FFT.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR351; MATH341",
+    "user_id": null
+  },
+  {
+    "id": "83cec9f9-fafb-40ef-a4c4-d389a22f578a",
+    "code": "ENGR428",
+    "title": "Antennas RF and Microwave Systems I",
+    "credits": 4,
+    "description": "RF and antenna systems.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR302; ENGR405; ENGR310",
+    "user_id": null
+  },
+  {
+    "id": "77e9b6f1-de1a-46b6-865b-87e1dd1029fd",
+    "code": "ENGR330",
+    "title": "Embedded System Design I",
+    "credits": 4,
+    "description": "Embedded microcontroller systems.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR301; ENGR307",
+    "user_id": null
+  },
+  {
+    "id": "4e108916-b6fb-49a4-806e-3e831689cbb7",
+    "code": "ENGR430",
+    "title": "Embedded System Design II",
+    "credits": 4,
+    "description": "Real-time embedded OS.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR330",
+    "user_id": null
+  },
+  {
+    "id": "44b0f986-16bc-4cac-bd23-1a7e317dd69b",
+    "code": "ENGR334",
+    "title": "Fourth Year Design Project",
+    "credits": 2,
+    "description": "Capstone project.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR333",
+    "user_id": null
+  },
+  {
+    "id": "fdee2b96-07e3-4a68-8dc3-9120bb530f79",
+    "code": "ENGR440",
+    "title": "Engineering Economics and Entrepreneurship",
+    "credits": 3,
+    "description": "Engineering economic analysis.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR110; MATH271-171",
+    "user_id": null
+  },
+  {
+    "id": "ce861c8c-30c8-4ac4-a5bd-bd3ff29de064",
+    "code": "ENGR350",
+    "title": "Machine Learning for Computer Engineers",
+    "credits": 3,
+    "description": "Machine learning fundamentals.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "MATH178; CPTR151",
+    "user_id": null
+  },
+  {
+    "id": "defaa47f-6921-4598-8daa-e085832d9a70",
+    "code": "ENGR470",
+    "title": "Fundamentals of Fluid Dynamics",
+    "credits": 3,
+    "description": "Fluid mechanics modeling.",
+    "created_at": "2026-02-13T20:19:12.171744+00:00",
+    "prerequisites": "ENGR212; MATH341",
+    "user_id": null
+  },
+  {
+    "id": "bc7dc514-c36c-48dd-a519-b15b7dc6f47c",
+    "code": "SCIE101",
+    "title": "Industrial Electronics and Process Control",
+    "credits": 3,
+    "description": "Industrial control systems.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; PEI101 or NVQ Certification",
+    "user_id": null
+  },
+  {
+    "id": "61bd1b6e-b0d9-457c-a14e-15e03a5f80a6",
+    "code": "SCDE101",
+    "title": "Digital Electronics and PLCs",
+    "credits": 3,
+    "description": "Digital circuits and PLC control.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; PEI101 or NVQ Certification",
+    "user_id": null
+  },
+  {
+    "id": "6f8edf0c-0bca-4e53-acaa-a8194f6c3d6a",
+    "code": "SCML101",
+    "title": "MATLAB and Simulink Applications",
+    "credits": 3,
+    "description": "MATLAB industrial applications.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; PEI101 or NVQ Certification",
+    "user_id": null
+  },
+  {
+    "id": "a08e7dc4-d096-45ce-b2e5-bfaa99482f32",
+    "code": "SCLV101",
+    "title": "LabVIEW Applications",
+    "credits": 3,
+    "description": "LabVIEW industrial applications.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; PEI101 or NVQ Certification",
+    "user_id": null
+  },
+  {
+    "id": "9dc703fa-b9e3-4eb5-a3f3-872a73049b67",
+    "code": "ENGR499",
+    "title": "Project (Internship) in Engineering",
+    "credits": 2,
+    "description": "Final-year project or internship.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "Final Year Standing",
+    "user_id": null
+  },
+  {
+    "id": "2ba8e2a4-d8ad-4d33-a450-293d2f1fffae",
+    "code": "ENGR371",
+    "title": "Heat and Mass Transfer with Applications",
+    "credits": 3,
+    "description": "Heat and mass transfer.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR212; MATH381",
+    "user_id": null
+  },
+  {
+    "id": "fe3871d5-b701-4b23-adf5-a396c5690910",
+    "code": "ENGR418",
+    "title": "Industrial Process Design",
+    "credits": 3,
+    "description": "Industrial process simulation.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR330; MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "549d0fb1-06ab-4b51-8088-4286c8769021",
+    "code": "ENGR419",
+    "title": "Renewable Energy Systems Design",
+    "credits": 4,
+    "description": "Renewable system design.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR330; MATH271-172",
+    "user_id": null
+  },
+  {
+    "id": "d233e90c-1781-43fc-b6df-d8545fdc6180",
+    "code": "ENGR420",
+    "title": "Modern Communications System Design",
+    "credits": 3,
+    "description": "Advanced communication systems.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR302; ENGR405; ENGR428",
+    "user_id": null
+  },
+  {
+    "id": "7445ceb1-f03d-4bb8-893c-09917585c2d4",
+    "code": "ENGR455",
+    "title": "Process Control for Energy Systems",
+    "credits": 3,
+    "description": "Industrial process control.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR302",
+    "user_id": null
+  },
+  {
+    "id": "5d244c3f-d301-4608-adea-6d022b977c8b",
+    "code": "ENGR495",
+    "title": "Applied Computation for Energy Systems",
+    "credits": 3,
+    "description": "Energy modeling and computation.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR315",
+    "user_id": null
+  },
+  {
+    "id": "f2a20449-642a-4d97-8ee2-7c17fac9e4d7",
+    "code": "PHYS095",
+    "title": "Introduction to Physics I",
+    "credits": 4,
+    "description": "Basic physics.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "eef71460-2875-4de2-af82-978be6e0b100",
+    "code": "PHYS096",
+    "title": "Introduction to Physics II",
+    "credits": 4,
+    "description": "Electricity and light.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "PHYS095",
+    "user_id": null
+  },
+  {
+    "id": "bd85b6c0-f43e-4972-b7b2-57fc3e0a338d",
+    "code": "PHYS151",
+    "title": "General Physics I",
+    "credits": 4,
+    "description": "Mechanics and heat.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "PHYS096 or pass in CSEC/GCE Physics",
+    "user_id": null
+  },
+  {
+    "id": "4214c5eb-fc00-4b54-ab92-920d5857c042",
+    "code": "PHYS152",
+    "title": "General Physics II",
+    "credits": 4,
+    "description": "Optics and quantum physics.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "PHYS151",
+    "user_id": null
+  },
+  {
+    "id": "b6bcc2b3-97ef-497e-a426-e0c85bb42442",
+    "code": "SCPV101",
+    "title": "Solar PV System Design I",
+    "credits": 3,
+    "description": "Residential PV system design.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics",
+    "user_id": null
+  },
+  {
+    "id": "fb91dde8-e4a4-4917-9769-4d6df2d299a8",
+    "code": "SCSH101",
+    "title": "Solar Heating and Cooling Systems I",
+    "credits": 3,
+    "description": "Solar thermal systems.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; ENGR315",
+    "user_id": null
+  },
+  {
+    "id": "55a04493-4c2d-4211-b921-d899d18916b0",
+    "code": "SCWT101",
+    "title": "Wind Turbine Systems Design I",
+    "credits": 3,
+    "description": "Wind energy systems.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; ENGR315",
+    "user_id": null
+  },
+  {
+    "id": "114a9c8c-e02e-4045-960c-4b3c9a4f0d7b",
+    "code": "SCEA101",
+    "title": "Economic Analysis of Renewable Energy Systems",
+    "credits": 3,
+    "description": "RE economic evaluation.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics",
+    "user_id": null
+  },
+  {
+    "id": "f9620ed9-0de6-4c1d-be79-9b9d19b2ba9c",
+    "code": "SCBM101",
+    "title": "Basic Math and Science for Technicians",
+    "credits": 3,
+    "description": "Applied math for technicians.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "e369b7d4-870b-40c1-a572-e8c3afb0404a",
+    "code": "SCPE101",
+    "title": "Practical Electronics and Instrumentation",
+    "credits": 3,
+    "description": "Circuit and instrumentation skills.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics",
+    "user_id": null
+  },
+  {
+    "id": "3ae57c9e-d99d-4b51-adb2-61642e4e2c0b",
+    "code": "SCTD101",
+    "title": "3D Printing and CAD Design",
+    "credits": 3,
+    "description": "CAD and 3D printing.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "d9b434cf-505a-452d-9b8d-724c0d3a26a5",
+    "code": "SCMF101",
+    "title": "Metal Fabrication and Machining",
+    "credits": 3,
+    "description": "Metalworking fundamentals.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics",
+    "user_id": null
+  },
+  {
+    "id": "9c312fe4-7712-40a2-9435-188a5c5b2dca",
+    "code": "ENGR400",
+    "title": "Engineering Exit Examination",
+    "credits": 1,
+    "description": "Comprehensive final exam.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "20b7bd3d-a643-466a-83b3-ec5ec8af538f",
+    "code": "SCEM101",
+    "title": "Electrical Machines and Drives Design",
+    "credits": 3,
+    "description": "Electrical drive systems.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; PEI101 or NVQ Certification",
+    "user_id": null
+  },
+  {
+    "id": "1ba6a782-c53e-44d5-99ee-df5e09ee81a3",
+    "code": "SCPE101-RE",
+    "title": "Power Electronics and Renewable Energy Conversion",
+    "credits": 3,
+    "description": "Power electronic conversion systems.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; PEI101 or NVQ Certification",
+    "user_id": null
+  },
+  {
+    "id": "089e3a34-4f6e-405f-aa0f-49fc408c0814",
+    "code": "ENGR373",
+    "title": "Introduction to Computational Fluid Dynamics",
+    "credits": 3,
+    "description": "CFD modeling.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR470",
+    "user_id": null
+  },
+  {
+    "id": "9c4addc1-ab27-4f8c-bc4c-cba7c017d020",
+    "code": "ENGR472",
+    "title": "Thermodynamics with Applications",
+    "credits": 3,
+    "description": "Advanced thermodynamics.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "ENGR212; ENGR213; MATH381",
+    "user_id": null
+  },
+  {
+    "id": "fad64031-270d-4da7-b04c-d51c77657af6",
+    "code": "SCHT101",
+    "title": "Hydro-Turbine Systems Design I",
+    "credits": 3,
+    "description": "Hydro system design.",
+    "created_at": "2026-02-13T20:19:30.288204+00:00",
+    "prerequisites": "BMS101 or CSEC Mathematics; ENGR315",
+    "user_id": null
+  },
+  {
+    "id": "94d83620-f8bf-4f37-b210-622a15e83e5e",
+    "code": "MATH272",
+    "title": "Calculus II",
+    "credits": 3,
+    "description": "",
+    "created_at": "2026-03-11T16:32:41.992136+00:00",
+    "prerequisites": "None",
+    "user_id": null
+  },
+  {
+    "id": "a7e8abb2-1603-49a2-8964-b736543573fd",
+    "code": "ENGR340",
+    "title": "Engineering Economics",
+    "credits": 3,
+    "description": "",
+    "created_at": "2026-04-28T10:10:45.043516+00:00",
+    "prerequisites": "None",
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  }
+]

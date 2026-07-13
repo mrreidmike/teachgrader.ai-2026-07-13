@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2e8d4704-2a5f-4141-90ee-ef038293b0a1",
+    "course_code": "MATH301",
+    "course_title": "Statistics and Probability",
+    "semester": "Spring 2026",
+    "instructor": "Dr. Emily Thompson",
+    "description": "Comprehensive introduction to statistical methods and probability theory with applications to data analysis, hypothesis testing, and statistical inference.",
+    "created_at": "2026-02-13T07:09:43.587783+00:00",
+    "updated_at": "2026-03-15T14:08:15.117488+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "1b6cfa0a-52d4-479b-b838-d4ffe5159765",
+    "course_code": "ENGR428",
+    "course_title": "Antennas RF and Microwave Systems I",
+    "semester": "Spring 2026",
+    "instructor": "Michael Reid",
+    "description": "RF and antenna systems.",
+    "created_at": "2026-02-14T03:31:04.588974+00:00",
+    "updated_at": "2026-03-15T14:08:15.117488+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "17e2ecd9-d91d-48c7-a02f-e5020ccaaadd",
+    "course_code": "ENGR430",
+    "course_title": "Embedded System Design II",
+    "semester": "Spring 2026",
+    "instructor": "Michael Reid",
+    "description": "Real-time embedded OS.",
+    "created_at": "2026-02-14T03:32:05.78265+00:00",
+    "updated_at": "2026-03-15T14:08:15.117488+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "2cd04d9a-0d45-4e42-a2c3-6e06311cda4a",
+    "course_code": "ENGR499",
+    "course_title": "Project (Internship) in Engineering",
+    "semester": "Spring 2026",
+    "instructor": "Michael Reid",
+    "description": "Practical engineering internship experience with industry partners or research projects.",
+    "created_at": "2026-02-16T01:45:51.031304+00:00",
+    "updated_at": "2026-03-15T14:08:15.117488+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "25bdf2b2-1574-44b4-bb36-ea2a961c4fc8",
+    "course_code": "ENGR440",
+    "course_title": "Engineering Economics and Entrepreneurship",
+    "semester": "Summer 2026",
+    "instructor": "Mr Michael Reid",
+    "description": "Engineering economic analysis.",
+    "created_at": "2026-02-26T00:08:16.594906+00:00",
+    "updated_at": "2026-03-15T14:08:15.117488+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "a9983b91-a4b0-42b7-ba54-4d619413238a",
+    "course_code": "MATH271-171",
+    "course_title": "Calculus I",
+    "semester": "Spring 2026",
+    "instructor": "Dr T Simpson",
+    "description": "Limits, differentiation, integration.",
+    "created_at": "2026-03-12T01:32:36.70752+00:00",
+    "updated_at": "2026-03-15T14:08:15.117488+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "03d1d70f-4f4f-465f-93cd-747f613be95c",
+    "course_code": "MATH272",
+    "course_title": "Calculus II",
+    "semester": "Spring 2026",
+    "instructor": "Dr T Simpson",
+    "description": "Continuation of Calculus I covering techniques of integration, sequences, series, and introductory differential equations.",
+    "created_at": "2026-03-17T15:55:24.788893+00:00",
+    "updated_at": "2026-03-17T15:55:24.788893+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "2c8b0152-3807-4f1a-add7-54ad5a80ff94",
+    "course_code": "MATH095",
+    "course_title": "Introductory Mathematics",
+    "semester": "Summer 2026",
+    "instructor": "Mr. Michael Reid",
+    "description": "?",
+    "created_at": "2026-05-11T22:04:27.072451+00:00",
+    "updated_at": "2026-05-11T22:04:27.072451+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "fa1d74ac-8143-4dbb-b185-06d6984b3165",
+    "course_code": "PHYS151",
+    "course_title": "General Physics I",
+    "semester": "Summer 2026",
+    "instructor": "Delroy Green",
+    "description": "",
+    "created_at": "2026-05-30T10:17:49.434558+00:00",
+    "updated_at": "2026-05-30T10:17:49.434558+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  },
+  {
+    "id": "4bd1beee-9b19-45ec-b269-6b35330422a9",
+    "course_code": "CSEC",
+    "course_title": "CSEC Physics",
+    "semester": "Fall 2027",
+    "instructor": "Dr Trevor Simpson",
+    "description": "CSEC Physics",
+    "created_at": "2026-06-12T00:18:14.082109+00:00",
+    "updated_at": "2026-06-12T00:18:14.082109+00:00",
+    "department_id": null,
+    "user_id": "53a315cd-0893-4b5d-92ac-b5844d2b50b9"
+  }
+]
